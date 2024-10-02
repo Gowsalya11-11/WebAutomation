@@ -1,0 +1,6 @@
+DemoProject\pageObjects\PaymentGateWayPage.class
+DemoProject\test\BaseClass.class
+DemoProject\test\TestUserLogin_001.class
+DemoProject\pageObjects\LoginPage.class
+DemoProject\test\TestPaymentGateWay_002.class
+DemoProject\utlitities\ReadingTestData.class
