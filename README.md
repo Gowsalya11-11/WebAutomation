@@ -24,6 +24,7 @@ The project created for automating a web site pages using Selenium Webdriver -Ja
           For Maven : Maven_Home: Add the Maven mvn bin directory path
         3. Install Docker
         4. Install Git
+        
 **Installation and Execution**
   1. Clone the project into your system from master brach using git clone "" command and checkout using git checkout "master branch"
   2. Open the proejct in Intelij IDE and build the project using mvn clean install command
