@@ -1,4 +1,4 @@
-package DemoProject.test;
+package test;
 
 import DemoProject.pageObjects.PaymentGateWayPage;
 import org.openqa.selenium.By;

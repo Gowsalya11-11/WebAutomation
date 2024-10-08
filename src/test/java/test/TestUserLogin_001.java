@@ -1,4 +1,4 @@
-package DemoProject.test;
+package test;
 
 import DemoProject.pageObjects.LoginPage;
 import org.testng.Assert;
